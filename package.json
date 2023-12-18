@@ -1,0 +1,17 @@
+{
+  "name": "insta_post",
+  "productName": "Insta Post",
+  "version": "1.0.1",
+  "description": "Lembrete de postagem",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "npx electron-packager . --icon icon.ico --out=packages",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcio Felipe",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}

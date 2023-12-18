@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  :root {
+    font-family: 'Inter', sans-serif;
+    font-size: 180%;
+  }
+  
+  body {
+    min-height: 100vh;
+    background-image: linear-gradient(to right, #BF04B3, #F2A30F);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  span {
+    text-align: center;
+    font-size: 300%;
+    margin-left: 22px;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 15px;
+    font-style: italic;
+    margin: -10px auto 20px;
+  }
+
+  .ip {
+    background-color: aliceblue;
+    border-radius: 15px;
+    padding: 55px;
+  }
+
+  .img {
+    display: block; /* Certifique-se de que a imagem seja um bloco para usar as propriedades de margem */
+    margin: -20px auto 20px; /* Define margem superior e inferior como 0 e a margem lateral como automática para centralizar horizontalmente */
+  }
+
+ 
+.btnx {
+    padding: 8px 16px;
+    cursor: pointer;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    width: 100px; /* Defina a largura desejada */
+    margin: 20px auto -20px;
+    background-image: linear-gradient(to right, #BF04B3, #F2A30F);
+    margin-left: 85px;
+}
+
+.btnx:hover {
+    background-image: linear-gradient(to right, #F2A30F, #BF04B3);
+}
