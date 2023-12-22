@@ -1,4 +1,4 @@
-<h2>🖥 - First App </h2>
+<h2>🖥 - Insta Post - First App </h2>
 <p>Participei ativamente do desenvolvimento do aplicativo em colaboração com Mayk Brito, registrando o processo por meio de vídeos educativos. Refinei a estética do aplicativo ao introduzir um novo design, incorporando um background que harmoniza com uma paleta de cores cuidadosamente escolhida. Além disso, aprimorei a experiência do usuário ao incluir um botão para fechar o aplicativo quando necessário e implementei um menu (tray) acessível ao clicar no ícone na bandeja do sistema. Esse menu oferece opções como "Minimizar", "Abrir" e "Fechar" o aplicativo.</p>
 <br>
 <h2>📖 - History</h2>
